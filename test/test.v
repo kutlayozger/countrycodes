@@ -1,11 +1,3 @@
-# countrycodes
-Country Codes module for V.
-
-# Instalation
-v install kutlayozger.countrycodes
-
-# Sample
-```
 import kutlayozger.countrycodes
 
 fn main() {
@@ -18,4 +10,3 @@ fn main() {
     println("*** All Currency Codes")
     println(c)
 }
-```

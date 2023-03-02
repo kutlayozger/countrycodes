@@ -1,4 +1,4 @@
-module countrycodes
+module country
 
 
 const ( country_data = [
